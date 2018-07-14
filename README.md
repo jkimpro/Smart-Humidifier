@@ -1,6 +1,8 @@
-Smart - Humidifier
+# Smart Humidifier
 
+made by Junhyuk Kim
 <br>
+* 2018í•™ë…„ë„ 1í•™ê¸° Capstone Design
+* ìŠ¤ë§ˆíŠ¸ ê°€ìŠµê¸°ì¡°
 
-2018ÇĞ³âµµ 1ÇĞ±â Capstone Design
-½º¸¶Æ® °¡½À±âÁ¶
+***
